@@ -51,11 +51,9 @@ The tools that have been used in the project are:
 
 Automated machine learning pipelines are required to provide a solution to handle huge data. A pipeline like this will make it easier to track experiments, maintain models, and deploy them into production. Whether you're working alone or as part of a team, this pipeline ensures that your machine learning models are developed, tested, and deployed in a consistent and streamlined manner.
 
-![ML Pipeline]()
+![ML Pipeline](./assets/Data%20Ingestion%20(1).png)
 
 ### Prerequisites
-
-Before running this project, ensure you have the following installed on your system:
 
 - **Python 3.7+** (Recommended: 3.8 or 3.9)
 - **Docker** (For containerization)
@@ -68,9 +66,29 @@ Before running this project, ensure you have the following installed on your sys
 ### Installation
 
 1. **Download Python Packages**  
-   Install the necessary Python packages listed in `requirements.txt`:
+2. **Install AWS EC2 Launch**
 
-   ```bash
-   pip install -r requirements.txt
+### Usage
+1. **Automation of the ML Lifecycle**
+     --Consistency and Efficiency
+     --Reduced Manual Intervention
+2. **Model Monitoring and Maintenance**
+     --Continuous Monitoring
+     --Automatic Retraining
+3. **Scalability**
+     --Handling Large Data Volumes
+     --Parallel Execution
+4. **Cost Efficiency**
+     --Operational Efficiency
+     --Resource Optimization
 
+### References
+[https://rihab-feki.medium.com/ml-project-using-yolov8-roboflow-dvc-and-mlflow-on-dagshub-3e5c0b026297](https://rihab-feki.medium.com/ml-project-using-yolov8-roboflow-dvc-and-mlflow-on-dagshub-3e5c0b026297)
+
+### Contact
+### _Pramathesh T S_
+
+**Email ID** - pramatheshts025@gmail.com<br>
+**LinkedIn** - [https://www.linkedin.com/in/pramatheshts1999/](https://www.linkedin.com/in/pramatheshts1999/)<br>
+**GitHub**   - [https://github.com/Pramathesh690/](https://github.com/Pramathesh690/)
 
